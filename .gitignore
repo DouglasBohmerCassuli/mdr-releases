@@ -1,0 +1,6 @@
+# Release assets are uploaded to GitHub Releases, not committed to git.
+*.exe
+*.zip
+latest.json
+MDR-*-latest.json
+

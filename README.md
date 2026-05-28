@@ -1,6 +1,6 @@
 # MDR Releases
 
-Repositorio publico usado para publicar instaladores e pacotes de atualizacao do MDR.
+Repositório publico usado para publicar instaladores e pacotes de atualização do MDR.
 
 Como instalar o programa:
 
